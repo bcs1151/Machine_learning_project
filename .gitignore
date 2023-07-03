@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.txt
 check.py
+app.py
 
 # C extensions
 *.so
