@@ -5,6 +5,7 @@ __pycache__/
 *.txt
 check.py
 app.py
+practice.ipynb
 
 # C extensions
 *.so
